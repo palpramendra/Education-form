@@ -1,0 +1,231 @@
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show
+{
+  color: black;
+  font-size: 20px;
+  font-weight:bold;
+  padding-right: 40px;
+  
+}
+.navbar
+{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.btn
+{
+  padding: 10px 20px;
+  background-color:#FFC102;
+  color: #fff;
+  font-weight: bold;
+  
+}
+.btn:hover
+{
+  background-color: #2d0de4af;
+  color: #fff;
+}
+.home
+{
+  background-image: url(https://demo.themexbd.com/html/sk/edube/assets/img/e-sliderbg.jpg);
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.read-more
+{
+  padding: 8px 20px;
+}
+.read-more:hover
+{
+  background-color: #FFC102;
+  color: #fff;
+  border-color: #FFC102;
+}
+.text1
+{
+  margin-top: 15%;
+}
+.step1
+{
+margin: 30px;
+}
+
+.step2h6
+{
+  color: #fdc312;
+  font-weight: bold;
+}
+.span2
+{
+  font-weight: bold;
+  font-size: 25px;
+  gap: 5px;
+}
+.bi-check2-square::before
+{
+  color: #f8bb05;
+}
+.color
+{
+  color: #f8bb05;
+}
+.bii
+{
+  font-size: 60px;
+  color: #f8bb05;
+  margin-left: 40%;
+}
+.step1h4
+{
+  text-align: center;
+  padding-top: 20px;
+}
+.step1h4:hover
+{
+  color: #f8bb05;
+}
+.step1p
+{
+  text-align: center;
+}
+.step3h5
+{
+  color: #f8bb05;
+  font-weight: bold;
+  text-align: center;
+}
+.span3
+{
+  font-weight: bold;
+  font-size: 35px;
+  text-align: center;
+}
+.step4
+{
+  background-image: url(https://demo.themexbd.com/html/sk/edube/assets/img/e-callb.jpg);
+}
+.teacher
+{
+  text-align: center;
+  background-color: #d6ccccb0;
+  padding: 10px;
+}
+.position
+{
+  margin-left: 20%;
+}
+.step5
+{
+  background-image: url(https://demo.themexbd.com/html/sk/edube/assets/img/e-callb.jpg);
+  height: 20%;
+}
+.top
+{
+  background-color: #f8bb05;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  align-items: center;
+  height: 40px;
+
+}
+ul
+{
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  font-weight: bold;
+  font-size: 15px;
+  margin: 0px 0px;
+  padding: 0px 20px;
+ 
+}
+
+.btn5
+{
+  background-color: #f8bb05;
+  color: #fff;
+  padding: 8px 12px;
+  outline-color: #f8bb05;
+}
+.footer
+{
+  margin-top: 70px;
+}
+.step2h1
+{
+  font-size: 25px;
+  font-weight: bold;
+}
+.step3h1
+{
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+}
+.step4h1
+{
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+}
+.nn {
+  transition: 0.9s;
+}
+.nn:hover{
+  transform: scale(1.1);
+}
+.footer
+{
+  background-image:url(https://demo.themexbd.com/html/sk/edube/assets/img/e-footerbg.jpg);
+}
+.footerh3
+{
+  color: #fff;
+  margin: 0px 0px;
+  padding: 0px 0px;
+}
+.footerul
+{
+  font-weight: normal;
+  display: block;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 450px;
+  padding-top: 10px;
+}
+.footerp
+{
+  color: #fff;
+  font-size: 18px;
+  font-weight: 450px;
+}
+
+.footera
+{
+  color: #fff;
+  text-decoration: none;
+}
+.footera:hover
+{
+  color: #f8bb05;
+}
+.edu
+{
+  padding-left:10%;
+}
+/* .icon
+{
+  font-size: 40px;
+  color: #f8bb05;
+} */
+.bifooter
+{
+  padding: 10px 10px;
+  font-size: 40px;
+  color: #f8bb05;
+}
+.bifooter:hover
+{
+  color: #2d0de4af;
+}
