@@ -20,7 +20,7 @@ function Header() {
             <section>
             <nav className="navbar navbar-expand-lg">
                 <div className="container">
-                  <div><img src="https://demo.themexbd.com/html/sk/edube/assets/img/e-logo.png" alt="" /></div>
+                  <div><Link to="/"><img src="https://demo.themexbd.com/html/sk/edube/assets/img/e-logo.png" alt="" /></Link></div>
                     <div className="collapse navbar-collapse" id="navbarScroll">
                         <ul className="navbar-nav m-auto my-2 my-lg-0 navbar-nav-scroll gap-1">
                         <li className="nav-item">

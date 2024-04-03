@@ -178,6 +178,7 @@ ul
 .footer
 {
   background-image:url(https://demo.themexbd.com/html/sk/edube/assets/img/e-footerbg.jpg);
+  margin-top: 30px;
 }
 .footerh3
 {
@@ -214,11 +215,7 @@ ul
 {
   padding-left:10%;
 }
-/* .icon
-{
-  font-size: 40px;
-  color: #f8bb05;
-} */
+
 .bifooter
 {
   padding: 10px 10px;
@@ -228,4 +225,198 @@ ul
 .bifooter:hover
 {
   color: #2d0de4af;
+}
+.about
+{
+  background-image: url(https://demo.themexbd.com/html/sk/edube/assets/img/h3-joinbg.jpg);
+
+}
+.abouth2
+{
+  color: #fff;
+  padding: 50px 50px;
+  font-weight: bold;
+  text-align: center;
+}
+.aboutp
+{
+  color: #fff;
+  text-align: center;
+}
+.about1
+{
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.about2
+{
+  padding-left: 50px;
+  padding-right: 70px;
+}
+.service
+{
+  background-image:url(https://demo.themexbd.com/html/sk/edube/assets/img/h3-joinbg.jpg);
+  margin-bottom: 40px;
+}
+.serviceh2
+{
+  color: #fff;
+  padding: 50px 50px;
+  font-weight: bold;
+  text-align: center;
+}
+.servicep
+{
+  color: #fff;
+  text-align: center;
+}
+.service2
+{
+  background-image: url(https://demo.themexbd.com/html/sk/edube/assets/img/h3-joinbg.jpg);
+  padding: 10px 0px;
+}
+.course
+{
+  background-image: url(https://demo.themexbd.com/html/sk/edube/assets/img/h3-joinbg.jpg);
+  margin-bottom: 40px;
+}
+.courseh2
+{
+  color: #fff;
+  padding: 50px 50px;
+  font-weight: bold;
+  text-align: center;
+}
+.coursep
+{
+  color: #fff;
+  text-align: center;
+}
+.contact
+{
+  background-image: url(https://demo.themexbd.com/html/sk/edube/assets/img/h3-joinbg.jpg);
+  margin-bottom: 40px;
+}
+.contacth2
+{
+  color: #fff;
+  padding: 50px 50px;
+  font-weight: bold;
+  text-align: center;
+}
+.contactp
+{
+  color: #fff;
+  text-align: center;
+}
+.blog
+{
+  background-image:url(https://demo.themexbd.com/html/sk/edube/assets/img/h3-joinbg.jpg);
+  margin-bottom: 40px;
+}
+.blogh2
+{
+  color: #fff;
+  padding: 50px 50px;
+  font-weight: bold;
+  text-align: center;
+}
+.blogp
+{
+  color: #fff;
+  text-align: center;
+}
+.blog1
+{
+  margin: 80px 80px;
+}
+.blog1h6
+{
+  color: #f8bb05;
+  font-weight: bold;
+  font-size: 20px;
+}
+.blog1span
+{
+  color: #f8bb05;
+}
+.blog1h2
+{
+  font-size: 35px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+.blogrowh6
+{
+  margin-top: 20px;
+}
+.blogbtn:hover
+{
+  color:#fff;
+  background-color:#f8bb05;
+}
+.blogbtn
+{
+  padding: 10px 12px;
+}
+.box-shadow
+{
+box-shadow: 0px 0px 0px 3px #ece9e9;
+}
+.serviceimg
+{
+  padding: 10px 10px;
+}
+.flex
+{
+  display: flex;
+}
+.contact1
+{
+  background-color: #1708ec;
+  padding:40px 60px;
+  
+}
+.contacth3
+{
+  font-size: 20px;
+  font-weight: bold;
+  color: #f8bb05;
+}
+.contacth4
+{
+  font-size: 35px;
+  font-weight: bold;
+  color: #ece9e9;
+}
+
+.form
+{
+  margin:5%;
+}
+.inner_contact_form
+{
+  background-color: #fff;
+  outline: none;
+  width: 100%;
+  height: 50px;
+  margin-top: 20px;
+}
+.formbtn
+{
+  background-color:#f8bb05;
+  padding: 13px 17px;
+  border: none;
+  font-size: 14px;
+  font-weight: bold;
+  color: #fff;
+}
+.formbtn:hover
+{
+  background-color: #3f3ce9;
+}
+.map
+{
+  width: 100%;
+  height: 100%;
 }
